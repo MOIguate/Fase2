@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">Myaplicacion</string>
+        <string name="dato1">nombre</string>
+        <string name="dato2">apellido</string>>
+        <string name="dato3">apellido</string>>
+        <string name="edad1">Menor de 18 años</string>>
+        <string name="edad2">Mayor de 18 años</string>>
+        <string name="direc">direccion</string>>
+        <string name="botonguardar">GUARDAR</string>>
+        <string name="dato1.2">nombre</string>>
+        <string name="dato2.2">apellido</string>>
+        <string name="dato3.2">apellido</string>>
+        <string name="adad1.2">Menor de 18 años</string>>
+        <string name="adad2.2">Mayor de 18 años</string>>
+        <string name="direc2">direccion</string>>
+        <string name="botonregresar">REGRESAR</string>>
+</resources>
